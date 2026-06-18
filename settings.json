@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CZradecek11.aternos.me",
+    "ip": "stonefish.aternos.host",
     "port": 15987,
     "version": "1.21.1",
     "try-creative": false
